@@ -199,8 +199,8 @@ p {
 
   .section__pic-container{
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     margin: auto 0;
   }
 
