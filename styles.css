@@ -405,6 +405,9 @@ p {
     color: black;
     border-color: rgb(163,163,163);
   }
+  .project-sub-title{
+    margin:0.5rem;
+  }
 
   /* contact sections */
 
