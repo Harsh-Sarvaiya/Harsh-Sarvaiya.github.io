@@ -342,20 +342,20 @@ p {
     margin: auto 0;
   }
 
-  /* Experiance section */
+  /* experience section */
 
-  #experiance {
+  #experience {
     position: relative;
   }
 
-  .experiance-sub-title {
+  .experience-sub-title {
     color: rgb(85,85,85);
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
   }
 
-  .experiance-details-container {
+  .experience-details-container {
     display: flex;
     justify-content: center;
     flex-direction: column;
